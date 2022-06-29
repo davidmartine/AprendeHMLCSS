@@ -1,0 +1,28 @@
+[33mcommit 1b87ea0178c1440e472951fa1fea32ac92c9e80b[m[33m ([m[1;36mHEAD -> [m[1;32mdesarrollo[m[33m)[m
+Author: juand <juanda.mg@hotmail.com>
+Date:   Tue Jun 28 22:53:19 2022 -0500
+
+    agregando archivos de trabajo
+
+[1mdiff --git a/Css/stilorespon2.css b/Css/stilorespon2.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/responsivo2.html b/responsivo2.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..56efbdb[m
+[1m--- /dev/null[m
+[1m+++ b/responsivo2.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Document</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
