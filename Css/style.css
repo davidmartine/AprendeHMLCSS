@@ -1,0 +1,23 @@
+img.foto{
+    width: 200px;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    position: absolute;
+    top: 60px;
+    right: 200px;
+}
+ul li{
+    
+   display: inline;
+    margin: 0 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.contenedor{
+    width: 1000;
+    margin: 0 auto;
+}
